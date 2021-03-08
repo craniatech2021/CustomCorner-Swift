@@ -1,6 +1,6 @@
 # CustomCorner-Swift
 
-[![Version](https://img.shields.io/cocoapods/v/HHCustomCorner.svg?style=for-the-badge)](https://cocoapods.org/pods/HHCustomCorner)
+[![Version](https://img.shields.io/cocoapods/v/HHCustomCorner.svg?style=for-the-badge)](https://cocoapods.org/)
 [![](https://img.shields.io/badge/Language-%20Swift-DB4E02.svg?style=for-the-badge&logo=swift)](https://developer.apple.com/swift)
 
 ## Example
